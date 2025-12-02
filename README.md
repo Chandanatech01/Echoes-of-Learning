@@ -1,22 +1,33 @@
-# Echoes-of-Learning
-# Welcome to My Learning-in-Public Journey 🚀
+# Welcome to My Learning Repository 🚀
 
-This repository is where I share my daily progress as I learn Java Full Stack and Data Structures & Algorithms (DSA) from absolute basics.
+Hi! I’m Chandana. I started sharing my placement preparation journey on LinkedIn under the name **"Echoes of Chandana"**, where I post my daily learnings, challenges, and progress.  
 
-My goal is:
+To make my learning more structured and publicly accessible, I decided to create this GitHub repository. Here, I document my **Java Full Stack** and **Data Structures & Algorithms (DSA)** journey from absolute basics.  
 
-To learn consistently, every single day
+This repository contains:
 
-To document everything in a simple and clear way
+- **Java Folder:** Daily notes, explanations, and examples as I learn Java Full Stack.  
+- **DSA Folder:** Daily notes, examples, and explanations to understand algorithms and time complexities step by step.  
 
-To help others who are also starting from scratch
+---
 
-To improve step by step and stay accountable
+## Why This Repository Exists
+- To **learn consistently** every day and track progress.  
+- To **document concepts in a simple and clear way** for myself and for others.  
+- To **help beginners** who want to start learning programming and DSA.  
+- To **stay accountable** and build a visual record of my journey.  
+- To **grow my GitHub contributions** while sharing knowledge publicly.  
 
-To grow my GitHub contributions and track progress visually
+---
 
+## My Current Focus
+As of **Day 218**, I have decided to start learning **Java Full Stack** and **DSA** from scratch.  
+- Today, I covered the **basics of programming and introduction to Java**.  
+- In DSA, I learned about **different time complexities** with simple, real-world examples.  
 
-I believe that small daily improvements create big transformations 🌱
+Every day I will add new notes, examples, and explanations in their respective folders to keep everything organized and easy to follow.
+
+---
 
 ## Follow My Journey 🚀
 
