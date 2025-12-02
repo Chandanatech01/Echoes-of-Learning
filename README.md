@@ -1,4 +1,4 @@
-# Welcome to My Learning Repository 🚀
+# Welcome to Echoes of Learning🚀
 
 Hi! I’m Chandana. I started sharing my placement preparation journey on LinkedIn under the name **"Echoes of Chandana"**, where I post my daily learnings, challenges, and progress.  
 
