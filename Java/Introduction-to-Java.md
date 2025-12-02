@@ -62,6 +62,3 @@ Java is a **high-level, object-oriented programming language** used to build a w
 - Programming is a way to communicate with computers to solve problems.  
 - Java is beginner-friendly, versatile, and widely used in industry.  
 ---
-## Plan for Tomorrow
-- Learn **Variables and Data Types in Java**.  
-- Write the first simple Java program: `Hello World`.
