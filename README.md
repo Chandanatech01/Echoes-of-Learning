@@ -17,3 +17,11 @@ To grow my GitHub contributions and track progress visually
 
 
 I believe that small daily improvements create big transformations 🌱
+
+## Follow My Journey 🚀
+
+If you want to see my progress, learn along with me, let's stay connected!  
+
+Connect with me on LinkedIn: [Chandana Aerupula](https://www.linkedin.com/in/chandana-aerupula-29a53330b/)  
+
+Let’s grow together! 💪
