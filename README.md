@@ -2,6 +2,12 @@
 
 Hi! I’m Chandana. I started sharing my placement preparation journey on LinkedIn under the name **"Echoes of Chandana"**, where I post my daily learnings, challenges, and progress.  
 
+## My Current Focus
+As of **Day 218**, I have decided to start learning **Java Full Stack** and **DSA** from scratch.  
+Every day I will add new notes, examples, and explanations in their respective folders to keep everything organized and easy to follow.
+
+---
+
 To make my learning more structured and publicly accessible, I decided to create this GitHub repository. Here, I document my **Java Full Stack** and **Data Structures & Algorithms (DSA)** journey from absolute basics.  
 
 This repository contains:
@@ -17,15 +23,6 @@ This repository contains:
 - To **help beginners** who want to start learning programming and DSA.  
 - To **stay accountable** and build a visual record of my journey.  
 - To **grow my GitHub contributions** while sharing knowledge publicly.  
-
----
-
-## My Current Focus
-As of **Day 218**, I have decided to start learning **Java Full Stack** and **DSA** from scratch.  
-- Today, I covered the **basics of programming and introduction to Java**.  
-- In DSA, I learned about **different time complexities** with simple, real-world examples.  
-
-Every day I will add new notes, examples, and explanations in their respective folders to keep everything organized and easy to follow.
 
 ---
 
